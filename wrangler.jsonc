@@ -1,0 +1,9 @@
+{
+  "name": "chat-school-x",
+  "compatibility_date": "2026-07-18",
+  "main": "src/index.js",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  }
+}
